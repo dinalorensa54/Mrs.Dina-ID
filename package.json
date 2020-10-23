@@ -1,1 +1,24 @@
-
+{
+  "nama": "facebook-access-token",
+  "versi": "1.0.0",
+  "description": "Menghasilkan Token Akses Facebook izin penuh (Android)",
+  "main": "index.js",
+  "scripts": {
+    "mulai": "node index.js"
+  },
+  "repositori": {
+    "type": "git",
+    "url": "git + https: //github.com/locmai0808/Facebook-Access-Token.git"
+  },
+  "author": "Loc Mai",
+  "lisensi": "MIT",
+  "ketergantungan": {
+    "axios-proxy-fix": "^ 0.16.3",
+    "express": "^ 4.16.4",
+    "uuid": "^ 3.3.2"
+  },
+  "bug": {
+    "url": "https://github.com/locmai0808/Facebook-Access-Token/issues"
+  },
+  "homepage": "https://github.com/locmai0808/Facebook-Access-Token#readme"
+}
